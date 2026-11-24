@@ -11,6 +11,8 @@ navbar:
     href: cos.html
   - text: cos2
     href: cos2.html
+  - text: cv
+    href: cv.html
 output:
   workflowr::wflow_html:
     toc: yes
